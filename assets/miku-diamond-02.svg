@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <clipPath id="diamond">
+      <polygon points="100,0 200,100 100,200 0,100" />
+    </clipPath>
+  </defs>
+  <image href="./miku-02.png" x="0" y="0" width="200" height="200" preserveAspectRatio="xMidYMid slice" clip-path="url(#diamond)" />
+  <polygon points="100,0 200,100 100,200 0,100" fill="none" stroke="#FFB7C5" stroke-width="4" />
+</svg>

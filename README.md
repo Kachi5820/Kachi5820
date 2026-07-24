@@ -15,15 +15,15 @@
     <b><span style="font-size:18px;">🎨 初音画廊  ·  Miku Gallery</span></b>
   </p>
   <p>
-    <img src="./assets/miku-01.png" width="100" height="100" alt="初音图1" />
+    <img src="./assets/miku-diamond-01.svg" width="100" height="100" alt="初音图1" />
     &nbsp;
-    <img src="./assets/miku-02.png" width="100" height="100" alt="初音图2" />
+    <img src="./assets/miku-diamond-02.svg" width="100" height="100" alt="初音图2" />
     &nbsp;
-    <img src="./assets/miku-03.png" width="100" height="100" alt="初音图3" />
+    <img src="./assets/miku-diamond-03.svg" width="100" height="100" alt="初音图3" />
     &nbsp;
-    <img src="./assets/miku-04.png" width="100" height="100" alt="初音图4" />
+    <img src="./assets/miku-diamond-04.svg" width="100" height="100" alt="初音图4" />
     &nbsp;
-    <img src="./assets/miku-05.png" width="100" height="100" alt="初音图5" />
+    <img src="./assets/miku-diamond-05.svg" width="100" height="100" alt="初音图5" />
   </p>
 </div>
 
