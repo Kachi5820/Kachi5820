@@ -10,15 +10,15 @@
     🌸🌸🌸 <b><span style="font-size:18px;">🎨 初音画廊  ·  Miku Gallery</span></b> 🌸🌸🌸
   </p>
   <p>
-    <img src="./assets/diamond-frame.svg" width="100" height="100" alt="图片1" />
+    <img src="./assets/diamond-miku01.svg" width="100" height="100" alt="miku01" />
     &nbsp;
-    <img src="./assets/diamond-frame.svg" width="100" height="100" alt="图片2" />
+    <img src="./assets/diamond-miku02.svg" width="100" height="100" alt="miku02" />
     &nbsp;
-    <img src="./assets/diamond-frame.svg" width="100" height="100" alt="图片3" />
+    <img src="./assets/diamond-miku03.svg" width="100" height="100" alt="miku03" />
     &nbsp;
-    <img src="./assets/diamond-frame.svg" width="100" height="100" alt="图片4" />
+    <img src="./assets/diamond-miku04.svg" width="100" height="100" alt="miku04" />
     &nbsp;
-    <img src="./assets/diamond-frame.svg" width="100" height="100" alt="图片5" />
+    <img src="./assets/diamond-miku05.svg" width="100" height="100" alt="miku05" />
   </p>
   <p>
     🎵 🎵 🎵
