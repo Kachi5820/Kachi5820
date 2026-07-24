@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <p>
-    <sup>—————— 🎨 初音画廊 · Miku Gallery ——————</sup>
+    <b><span style="font-size:18px;">🎨 初音画廊  ·  Miku Gallery</span></b>
   </p>
   <p>
     <img src="./assets/diamond-frame.svg" width="100" height="100" alt="图片位1" />
