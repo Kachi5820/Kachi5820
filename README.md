@@ -32,9 +32,7 @@
 
 <!-- ==================== 关于我 ==================== -->
 <b>🌸 关于我 · About Me</b>
-<p>你好！我是 <b>卡琪</b></p>
 <p>🎓 bg：深大金融科技</p>
-<p>务必相信越努力 越幸运◍˃ᵕ˂◍</p>
 <p>🎀 🎸 邦多利RAS厨 · 🎵 日音爱好者 · 🎤 Eason/Yoga · 🌱 INFJ</p>
 
 <br />
@@ -61,11 +59,3 @@
 
 <br />
 
-<!-- ==================== 底部 ==================== -->
-<div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="初音主题页脚装饰" />
-</div>
-<br />
-<div align="center">
-  <sub>🌸 由 <a href="https://github.com/Kachi5820/miku-github-profile">初音未来主题模板</a> 生成 · 用 ❤️ 和 🎵 制作</sub>
-</div>
