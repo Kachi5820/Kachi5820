@@ -25,7 +25,6 @@
     &nbsp;
     <img src="./assets/diamond-frame.svg" width="100" height="100" alt="图片位5" />
   </p>
-  <p><sup>⬆ 替换为你的初音未来图片 ⬆</sup></p>
 </div>
 
 <br />
@@ -54,7 +53,7 @@
 
 <b>💌 联系方式</b>
 <p>
-  📕 小红书：<a href="https://www.xiaohongshu.com/user/profile/1029985787">卡琪同学请学习</a> &nbsp;·&nbsp; 🅱️ B站：<a href="#">卡琪同学别睡了</a> &nbsp;·&nbsp; 📧 <a href="mailto:1260298305@qq.com">1260298305@qq.com</a>
+  📕 小红书：<a href="https://www.xiaohongshu.com/user/profile/5fa018310000000001006315">卡琪同学请学习</a> &nbsp;·&nbsp; 🅱️ B站：<a href="https://space.bilibili.com/38683059?spm_id_from=333.337.0.0">卡琪同学别睡了</a> &nbsp;·&nbsp; 📧 <a href="mailto:1260298305@qq.com">1260298305@qq.com</a>
 </p>
 
 <br />
