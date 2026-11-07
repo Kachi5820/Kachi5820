@@ -2,7 +2,7 @@
 
 # KEJIN HUANG
 
-### Computer Vision · Creative Technology
+### Computer Vision
 
 *Finding clarity in the frame.*
 
