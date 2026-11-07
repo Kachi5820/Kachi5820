@@ -2,7 +2,6 @@
 
 # KEJIN HUANG
 
-### Computer Vision
 
 *Finding clarity in the frame.*
 
